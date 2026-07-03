@@ -368,4 +368,4 @@ GitHub: https://github.com/yourusername
 
 ---
 
-## ⭐ If you found this project interesting, consider giving it a star!
+## ⭐ If you found this project interesting, consider giving it a star!gkt
