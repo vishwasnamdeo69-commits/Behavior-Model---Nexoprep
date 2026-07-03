@@ -1,0 +1,23 @@
+# ==========================================
+# AI Interview Behavior Analyzer
+# Requirements
+# ==========================================
+
+# Computer Vision
+opencv-python==4.10.0.84
+mediapipe==0.10.14
+
+# Numerical Computing
+numpy==1.26.4
+
+# Graphs & Report Visualization
+matplotlib==3.9.2
+
+# Optional Image Processing
+Pillow==10.4.0
+
+# Scientific Utilities
+scipy==1.14.1
+
+# Progress Bars
+tqdm==4.66.5
